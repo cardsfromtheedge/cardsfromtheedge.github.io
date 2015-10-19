@@ -1,7 +1,6 @@
 # Setup
 * Based on Jekyll, so install Jekyll.
-* Then install `gem install jekyll-less`
-
+* Install grunt
 
 # Grunt functions
 
