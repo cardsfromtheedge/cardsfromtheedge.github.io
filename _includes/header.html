@@ -4,8 +4,14 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2">
-                        <h1 class="brand-heading">Cards from the Edge</h1>
-                        <p class="intro-text">Cards from the Edge will take you on a short journey of creativity and love from one friend to another by way of full STOPs and smileys!</p>
+                        <h1 class="brand-heading">{{ page.title }}</h1>
+                        {% if page.subtitle %}
+                            <p class="intro-text">{{ page.subtitle }}</p>
+                        {% endif %}
+                        <br>
+                        <!-- <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span> -->
+
+
                         <a href="#about" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
                         </a>
