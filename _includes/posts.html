@@ -1,0 +1,22 @@
+    <!-- Contact Section -->
+    <section id="contact" class="container content-section text-center">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2">
+                <h2>Posts</h2>
+
+                {% for post in paginator.posts %}
+                <div class="post-preview">
+                    <a href="{{ post.url | prepend: site.baseurl }}">
+                        <h3 class="post-title">{{ post.title }}</h3>
+                    </a>
+                    {% if post.subtitle %}
+                    <p class="post-subtitle">{{ post.subtitle }}</p>
+                    {% endif %}
+                    
+                    <p class="post-meta">Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+                </div>
+                <hr>
+                {% endfor %}
+            </div>
+        </div>
+    </section>

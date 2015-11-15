@@ -6,6 +6,13 @@
                 <p>Cards from the Edge will take you on a short journey of creativity and love from one friend to another by way of full STOPs and smileys! They were written during a short spell in a lifetime of magical moments, often lit by candles and always followed by our friend the moon. Be uplifted and inspired to create.</p>
                 <p>Published to raise funds for the Highland Hospice's £4.5 million Project Build Appeal for their new in-patient unit, Inverness. In memory of Jenny Turner, who was wonderfully cared for by everyone at the Hospice and who inspired the author to re-discover her own creativity.</p>
                 <p>Written by <a href="mailto:{{ site.email }}">Jo Turner</a></p>
+                <ul class="list-inline banner-social-buttons">
+                    {% for network in site.social %}
+                    <li>
+                        <a href="{{ network.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ network.title }} fa-fw"></i> <span class="network-name">{{ network.title }}</span></a>
+                    </li>
+                    {% endfor %}
+                </ul>
             </div>
         </div>
     </section>
