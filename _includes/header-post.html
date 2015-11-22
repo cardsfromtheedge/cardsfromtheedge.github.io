@@ -1,5 +1,5 @@
     <!-- Intro Header -->
-    <header class="intro">
+    <header class="intro" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
         <div class="intro-body">
             <div class="container">
                 <div class="row">
@@ -8,9 +8,8 @@
                         {% if page.subtitle %}
                             <p class="intro-text">{{ page.subtitle }}</p>
                         {% endif %}
+                        <p class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</p>
                         <br>
-                        <!-- <span class="meta">Posted by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span> -->
-
 
                         <a href="#post" class="btn btn-circle page-scroll">
                             <i class="fa fa-angle-double-down animated"></i>
