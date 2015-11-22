@@ -4,12 +4,12 @@ title:      "First post"
 subtitle:   "My 1st book may seem as though it’s about death, but it’s very much about life…"
 date:       2015-11-16 12:00:00
 author:     "Jo Turner"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/skye-sunset.jpg"
 ---
 
-“Self-published and raising funds for the Highland Hospice, Cards from the Edge will take you on a short journey of creativity and love from one friend to another by way of full STOPs and smileys! The cards were written during a short spell in a lifetime of magical moments, often lit by candles and always followed by our friend the moon.
+<blockquote><p>“Self-published and raising funds for the Highland Hospice, Cards from the Edge will take you on a short journey of creativity and love from one friend to another by way of full STOPs and smileys! The cards were written during a short spell in a lifetime of magical moments, often lit by candles and always followed by our friend the moon.</p>
 
-The book, which costs £15, is available now (November 2015). It is a beautiful 8x8″ hardback gift book, full of love, photos, daily musings and the author’s tentative creativity. Written overlooking the Edge (the Edge being the coast overlooking the sea) and often while eating a late breakfast!”
+<p>The book, which costs £15, is available now (November 2015). It is a beautiful 8x8″ hardback gift book, full of love, photos, daily musings and the author’s tentative creativity. Written overlooking the Edge (the Edge being the coast overlooking the sea) and often while eating a late breakfast!”</p></blockquote>
 
 Having had a very late breakfast today, ☺ I paused to ponder what was needed next on my journey. A blog came to mind, as it’s something I’ve been putting off. I have spent several years reading other people’s blogs and always felt grateful for the wonderful words shared. So here we are on a rainy afternoon blogging! 
 
