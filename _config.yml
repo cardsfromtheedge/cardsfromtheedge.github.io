@@ -20,7 +20,7 @@ social:
   #   url: "https://twitter.com/cardsfromtheedge"
   - title: facebook
     url: "https://www.facebook.com/CardsfromtheEdge"
-  - title: envelope
+  - title: email
     url: "mailto:jotpublishing@gmail.com"
 
 # Build settings
