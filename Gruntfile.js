@@ -70,6 +70,27 @@ module.exports = function(grunt) {
             },
 
         },
+
+        imagemin: {
+              jpg: {
+                  options: {
+                      progressive: true
+                  },
+                  files: [
+                      {
+                        // Set to true to enable the following options…
+                        expand: true,
+                        // cwd is 'current working directory'
+                        cwd: '_site/img',
+                        src: ['*.jpg', '*.JPG'],
+                        // Could also match cwd. i.e. project-directory/img/
+                        dest: '_site/img',
+                        ext: '.jpg'
+                      }
+                  ]
+               }
+        }
+
     });
 
     // Load the plugins.
@@ -77,6 +98,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-less');
     grunt.loadNpmTasks('grunt-banner');
     grunt.loadNpmTasks('grunt-contrib-watch');
+    grunt.loadNpmTasks('grunt-contrib-imagemin');
 
     // Register the grunt serve task
     grunt.registerTask('serve', [
@@ -87,7 +109,8 @@ module.exports = function(grunt) {
     grunt.registerTask('build', [
         'less',
         'shell:jekyllBuild',
-        'uglify'
+        'uglify',
+        'imagemin:jpg'
     ]);
 
     // Default task(s).
