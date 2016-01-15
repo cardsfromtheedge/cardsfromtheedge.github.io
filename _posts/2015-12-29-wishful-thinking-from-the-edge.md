@@ -18,7 +18,7 @@ Here is the wonderful endorsement I received from a friend, fellow author and on
 
 As I walk my talk, I would like to finish this blog with heartfelt gratitude to some of the amazing people who have been so influential in me finding my life flow again. First mention must go to Alisoun Mackenzie, author of Heartatude – The 9 Principles of Heart-Centred Success, who suggested I went to the Glasgow Hay House ‘I Can Do It’ Conference in 2013. Also, everyone at the Heartabiz Hub <a href="http://www.alisoun.com">http://www.alisoun.com</a> who have spurred me onwards! Thank you ☺
 
-To Aimee, thank you for your inspirational blog - Aimee Stewart Born 2 Bee Happy, and for being YOU completely. ☺ You are one of life’s gems. Find Aimee’s community on <a href="www.facebook.com/born2beehappy">http://www.facebook.com/born2beehappy</a> Thank you, thank you ☺
+To Aimee, thank you for your inspirational blog - Aimee Stewart Born 2 Bee Happy, and for being YOU completely. ☺ You are one of life’s gems. Find Aimee’s community on <a href="http://www.facebook.com/born2beehappy">http://www.facebook.com/born2beehappy</a> Thank you, thank you ☺
 
 And last but not least, David R. Hamilton PhD for his inspirational 5 day Integrating Science Coaching Seminar in 2014. When I booked onto this course, I really didn’t know what I was letting myself in for, but it has been one of the most life changing workshops I have ever attended. Thank you so very much to David and all the other participants who made our time together so incredibly memorable. Take a look at <a href="http://www.drdavidhamilton.com">http://www.drdavidhamilton.com</a> because, this was definitely a big stepping-stone in my Cards from the Edge journey. Thank you ☺
 
