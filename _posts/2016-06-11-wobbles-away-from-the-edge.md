@@ -9,7 +9,7 @@ header-img: "img/sunset-in-woods.jpeg"
 
 It would be easy to only write about the good times in life, but the more I write, the more I realize you have 
 to embrace your dark side too. I have steered away from my own dark side as often as possible in the past few 
-years and put a lot of effort into being a happy, cheerful person. One of my mantras being - *I choose Happy* :-)  
+years and put a lot of effort into being a happy, cheerful person. One of my mantras being - *I choose Happy* :smile:  
 Well, sometimes I have to confess that happy may be the preferred choice, but the darkness descends and 
 I hear my inner voice telling me to pull out all the stops to cheer up. I am learning that pushing this 
 darkness away makes it persist, generally it goes much quicker if you allow it to be. You don’t exactly 
@@ -42,6 +42,6 @@ On reflection, I would say giving yourself permission to feel however you feel, 
 not good self-care is to allow the sadness to take hold and start to eat away at you. That’s when, getting 
 out in nature is such a great natural remedy and counting your blessings however small they may seem can 
 really help. So for now, the sunshine has returned in my heart and when the darkness descends again, I’ll 
-remind myself of this blog and hopefully I’ll be grateful for my own musings :-)  As always with gratitude and 
+remind myself of this blog and hopefully I’ll be grateful for my own musings :smile:  As always with gratitude and 
 remember the sun always shines behind the clouds however dark they may appear…… and will return to warm you
 once again. 
