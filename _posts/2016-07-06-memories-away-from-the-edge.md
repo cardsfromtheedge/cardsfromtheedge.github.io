@@ -4,7 +4,7 @@ title:      "Memories away from the Edge"
 subtitle:   "The Snow Angel has gone and an Otter’s face appears!"
 date:       2016-07-06 12:00:00
 author:     "Jo Turner"
-header-img: "img/snowottercat.jpeg"
+header-img: "img/snowottercat.jpg"
 ---
 I was sat having lunch one day, and as I so often do, I looked out on the lovely view, and as it sunk in that the snow angel had truly gone for the year, I smiled, realising she had been replaced by an otters face! Not quite in the same place but slightly over to the right. I sat there pondering the message in this? What’s left will always be right! 
 
