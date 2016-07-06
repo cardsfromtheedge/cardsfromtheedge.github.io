@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Memories away from the Edge"
+title:      "Memories on the Edge"
 subtitle:   "The Snow Angel has gone and an Otter’s face appears!"
 date:       2016-07-06 12:00:00
 author:     "Jo Turner"
