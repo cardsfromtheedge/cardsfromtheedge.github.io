@@ -1,9 +1,11 @@
+---
 layout:     post
-  title:      "Back on the Edge"
- -
-  subtitle:   "Being playful in between challenging times"
-  date:       2016-08-06 12:00:00
-  author:     "Jo Turner"
+title:      "Back on the Edge"
+subtitle:   "Being playful in between challenging times"
+date:       2016-08-08 12:00:00
+author:     "Jo Turner"
+header-img: "img/backontheedge.jpg"
+---
   
 The otter face in the snow may be long gone, but the playfulness continues as a week full of sunshine (almost unheard of, in the Highlands) enticed everyone outside. It was declared a holiday in our household and I paddled in the sea for the first time this summer, spent time throwing pebbles into the loch, and did a spot of beach combing in between the washing, gardening and a wee bit of impromptu book selling. I made time to meditate (my must do) and the week also found me blowing bubbles in the back garden (thank you to the children who left the bubble bottle with us). When life gets tough, it is a good way to bring your self into the present moment and being playful is a perfect anecdote. Yet again, I am reminded that being present is the way forward. Easier said than done, when life gets in the way…. 
 
