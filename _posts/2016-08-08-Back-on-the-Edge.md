@@ -1,3 +1,10 @@
+layout:     post
+  title:      "Back on the Edge"
+ -
+  subtitle:   "Being playful in between challenging times"
+  date:       2016-08-06 12:00:00
+  author:     "Jo Turner"
+  
 The otter face in the snow may be long gone, but the playfulness continues as a week full of sunshine (almost unheard of, in the Highlands) enticed everyone outside. It was declared a holiday in our household and I paddled in the sea for the first time this summer, spent time throwing pebbles into the loch, and did a spot of beach combing in between the washing, gardening and a wee bit of impromptu book selling. I made time to meditate (my must do) and the week also found me blowing bubbles in the back garden (thank you to the children who left the bubble bottle with us). When life gets tough, it is a good way to bring your self into the present moment and being playful is a perfect anecdote. Yet again, I am reminded that being present is the way forward. Easier said than done, when life gets in the way…. 
 
 I hesitated before writing this, as I had the intention of being uplifting and pretending that life was all rosy, but sadly death has come close to me again. In the last few months, I’ve lost a lovely cousin, who definitely knew how to have fun and then far too quickly followed by his father, my wonderful uncle. I live a long way from most of my extended family and so we’ve kept in regular contact over the last few weeks. It is in this great sadness that we’ve discovered similarities between us, and for me there has been a real sense of joy in getting to know each other again, albeit under very sad circumstances. It is early days for my cousin’s to maybe have that feeling yet, but I’ve put my heart and soul into being along side them, as best I can, in these difficult times.  However, it is our love for each other and the family ties that bring us together. 
