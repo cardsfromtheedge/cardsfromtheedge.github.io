@@ -4,7 +4,7 @@ title:      "Moon watching on the Edge"
 subtitle:   "Magical moments one summer's evening"
 date:       2016-08-25 12:00:00
 author:     "Jo Turner"
-header-img: "img/moonsetwatching.jpg"
+header-img: "img/moonsetwatchingleft.jpg"
 ---
 For any of you that have read Cards from the Edge, you will know I love the moon. Last night, I was lucky enough to see the moon set right in the centre of the mountain col across the loch. I was a bit late with the camera, so tonight, I thought I’d get ahead of the game and got the camera all set up with the tripod, I had a candle to deter the midges (that didn’t work by the way!) and feeling smug, I sat to watch the moon get into position. However, it was not long before I realized that the opportunity had been missed, helped by my husband’s good math that the trajectory of the moon would leave it setting much further along the mountain than last night. Of course, many of you may have known this, and although I know the moon would shift each night, I still thought that I’d get the photo opportunity I had hoped for.   
 
