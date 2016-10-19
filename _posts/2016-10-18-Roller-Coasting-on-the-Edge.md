@@ -2,7 +2,7 @@
 layout:     post
 title:      "Rollercoasting on the Edge"
 subtitle:   "A major shift and the emotions come flooding out"
-date:       2016-10-19 12:00:00
+date:       2016-10-18 12:00:00
 author:     "Jo Turner"
 header-img: "img/mossrockheart.jpg"
 ---
