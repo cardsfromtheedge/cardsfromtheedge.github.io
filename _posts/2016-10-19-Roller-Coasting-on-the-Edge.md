@@ -4,7 +4,7 @@ title:      "Roller Coasting on the Edge"
 subtitle:   "A major shift and the emotions come flooding out
 date:       2016-10-18 12:00:00
 author:     "Jo Turner"
-header-img: "img/.jpg"
+header-img: "img/mossrockheart.jpg"
 ---
 
 Oh my goodness, what a time it has been. How quickly things can change! I have been feeling stuck and quite honestly struggling to get to grips with life over the last few weeks. Everything appeared fine on the surface, but under the calm sea there was a storm brewing and like so many times before, I just didn’t see it coming and certainly felt stuck in the process of it all. My sister used to tell me off for saying “I’m fine”. It has a sense of not being authentic and honest, and she was right, it’s easy to say, “I’m fine”. It brushes whatever is bothering us under the carpet and with a bit of luck we can forget it’s even there!
