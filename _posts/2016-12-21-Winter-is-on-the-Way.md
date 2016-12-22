@@ -4,7 +4,7 @@ title:      "Winter is on the Way"
 subtitle:   "Yet the sun still shines on the Edge"
 date:       2016-12-21 12:00:00
 author:     "Jo Turner"
-header-img: "img/supermoon.jpg"
+header-img: "img/Supermoon.jpg"
 ---
 What beautiful Autumnal days we have seen recently, the colours are stunning, and we are seeing plenty of rainbows here in the Highlands. It is with a sense of awe that I look out on the scenery and marvel at Nature’s bounty and magnificence. The mountaintops are dusted in white, as the first snow arrived last week, and it makes for some stunning photography. I love the changing seasons and this time of year is no exception. Even when the rain is lashing down and the waves are crashing onto the beach, there is a power greater than us all and it fascinates me.
 
