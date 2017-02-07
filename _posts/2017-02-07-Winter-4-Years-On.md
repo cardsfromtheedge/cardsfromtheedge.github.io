@@ -4,7 +4,7 @@ title:      "Winter 4 Years On"
 subtitle:   "There has been some darkness through the light"
 date:       2017-02-07 12:00:00
 author:     "Jo Turner"
-header-img: "img/Flyintosunset.jpg"
+header-img: "img/Flyingsunset.jpg"
 ---
 
 A lovely friend has just reminded me how much the seasons and monthly cycles affect some of us and it was like a light being switched back on! The light was always there, but I’d forgotten I had the power to switch it on myself. Sometimes I slip into darkness because it’s safe there, I know who I am there! I’m not sure, I fully know who I am in the light yet! Many weeks have passed since I last wrote, I kept thinking about writing, but nothing came and often I felt it was gone for good. I have written some personal musings in my journal, but nothing felt quite right. I have learnt if nothing else, over the last few years to go with the feeling….
