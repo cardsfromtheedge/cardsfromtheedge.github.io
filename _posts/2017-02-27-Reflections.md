@@ -4,7 +4,7 @@ title:      "Reflections"
 subtitle:   "While being in the present moment"
 date:       2017-02-27 12:00:00
 author:     "Jo Turner"
-header-img: "img/lighthousereflections.jpg"
+header-img: "img/Lighthousereflections.jpg"
 ---
 I love it when I have time to reflect and plan ahead, I’m coming to the conclusion that the New Year starts for me at the beginning of February! Maybe, that’s why I’ve never bothered with New Year Resolutions, they always seemed a waste of time, it feels like setting myself up to fail before the year has even got started.
 
