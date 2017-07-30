@@ -4,7 +4,7 @@ title:      "On The Edge"
 subtitle:   "Life takes over and the only way back is forward!"
 date:       2017-07-30 12:00:00
 author:     "Jo Turner"
-header-img: "img/Hebridesbeach2.jpg"
+header-img: "img/Hebridesbeach3.jpg"
 ---
 For many days, I’ve been pondering getting back on track, getting out into nature more and making some time to create. Since the last blog, there has been very little creativity and even a few blocked pathways! However, to get back on track, I find myself sat down in an attempt to move forward again! Re-reading that, it seems rather muddled, but in all honesty expresses where I’m at, right now. ☺
 
