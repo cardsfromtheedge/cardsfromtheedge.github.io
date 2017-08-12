@@ -4,7 +4,7 @@ title:      "Away from The Edge"
 subtitle:   "A timely reminder about what’s important"
 date:       2017-08-12 12:00:00
 author:     "Jo Turner"
-header-img: "img/KindnessRun.jpg"
+header-img: "img/Kindnessrun.jpg"
 ---
 Following my previous post, there have been some wonderful moments recently out in nature to cherish and inspire. I’ve been posting on social media again, and allowing my creativity to slowly surface with the odd helpful nudge from the Universe! One such nudge, while I was out walking last week, was coming across the Kindness Run. (I have a feeling it’s to do with a string of fishing pools on one of the local rivers). However, it really spoke to me, and I was immediately inspired to capture it in a photo (see above photo). It was too good not to share, with a red roofed byre (wee barn) nearby and a beautiful backdrop of mountains. Although the day was overcast, there was a magical quality to the whole moment, as I was reminded once again, that kindness makes your heart sing in so many ways. To get this very clear message at that moment felt truly heaven sent, because in all things that are important in life, kindness is one of the simplest things to live by and one of the most important.☺
 
