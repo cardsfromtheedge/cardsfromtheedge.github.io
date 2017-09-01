@@ -24,7 +24,7 @@ It must have worked because the extraction was a smooth and clean one and, altho
 
 In times of stress it is so easy to spiral into unhelpful thoughts that can and will potentially make a situation worse. 
 
-Over the years I can now see objectively, when I’ve not helped myself have a better outcome. Have you been in a similar situation yourself? Maybe your thoughts have taken control and you have worried more than was necessary. 
+Over the years I can now see objectively, when I’ve not helped myself have a better outcome. *Have you been in a similar situation yourself?* Maybe your thoughts have taken control and you have worried more than was necessary. 
 
 I’m sure we’ve all experienced that at one time or another. Remember (as I often tell myself!) to be kind to yourself, remember your body and mind are connected and as you think, so you steer your body towards peace or stress. I know which one I prefer… ☺
 
