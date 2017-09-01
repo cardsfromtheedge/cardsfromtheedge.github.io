@@ -28,7 +28,7 @@ Over the years I can now see objectively, when I’ve not helped myself have a b
 
 I’m sure we’ve all experienced that at one time or another. Remember (as I often tell myself!) to be kind to yourself, remember your body and mind are connected and as you think, so you steer your body towards peace or stress. I know which one I prefer… ☺
 
-One of the books I’ve read recently, (twice in fact, it has so much wisdom in it) is called Happiness Millionaire by Janet Jones - <a href=":http://www.happinessmillionaire.com/">https://www.happinessmillionaire.com/</a> and something I remember, is Janet talking about helpful and unhelpful thoughts.
+One of the books I’ve read recently, (twice in fact, it has so much wisdom in it) is called Happiness Millionaire by Janet Jones - <a href=":http://www.happinessmillionaire.com/">http://www.happinessmillionaire.com/</a> and something I remember, is Janet talking about helpful and unhelpful thoughts.
 
 It really resonated with me, I now ask myself the simple question “is this thought helpful?” If it is not, I reframe it and ensure the next thought is a helpful one. If I struggle doing this, I move into mantra/affirmation mode. 
 
