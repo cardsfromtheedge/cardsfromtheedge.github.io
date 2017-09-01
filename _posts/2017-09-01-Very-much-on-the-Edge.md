@@ -34,8 +34,7 @@ It really resonated with me, I now ask myself the simple question “is this tho
 
 It forces the mind away from the unhelpful thoughts and in time, the results can be dramatic to say the least. 
 
-When I first started using these methods years ago, I did not have a lot of faith in my own abilities to ‘rewire my brain’ as I once declared I wanted to do.  However, over the years, I have seen so many times how I have helped myself move into a better place inwardly and that in turn has improved my outer world no end.
-If this concept is new to you, there are many books out there to help you get started and open new doors. In my next post I’ll make some suggestions to help you along the way. 
+When I first started using these methods years ago, I did not have a lot of faith in my own abilities to ‘rewire my brain’ as I once declared I wanted to do.  However, over the years, I have seen so many times how I have helped myself move into a better place inwardly and that in turn has improved my outer world no end. If this concept is new to you, there are many books out there to help you get started and open new doors. 
 
 In the meantime, the numbness is wearing off and I’m back to looking out to sea and possibly resting my eyes for a while too. 
 
