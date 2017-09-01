@@ -12,7 +12,7 @@ As yet, unsure of the outcome, I’ll do my very best to improve my chances of s
 
 My inner world has been limping along for a long time and I’m now beginning to realize how much we put up with, before we’re ready to take action.
 
-It got me thinking - this is how we often cope with things in our outer life.  We put up with things that make us sad, resentful, or angry, holding on for far too long. And yet within a flash we can let go of whatever it is that is bothering us, and start afresh with new thoughts and new actions. 
+It got me thinking - this is how we often cope with things in our outer life.  We put up with things that make us sad, resentful, or angry, holding on for far too long. And yet, within a flash we can let go of whatever it is, that is bothering us, and start afresh with new thoughts and new actions. 
 
 It is a timely reminder that our thoughts are so powerful. 
 
