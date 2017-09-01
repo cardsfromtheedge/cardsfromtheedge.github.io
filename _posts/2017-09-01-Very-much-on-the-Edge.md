@@ -4,7 +4,7 @@ title:      "Very much on the Edge"
 subtitle:   "A day of rest and reflection"
 date:       2017-09-01 12:00:00
 author:     "Jo Turner"
-header-img: "img/Powerfulthoughts.jpg"
+header-img: "img/powerfulthoughts.jpg"
 ---
 It’s surprising feeling the need to write about my current experience. I’m sat looking out to sea, but my world has changed. Nothing major has happened outwardly, but inwardly my world has changed forever. 
 
