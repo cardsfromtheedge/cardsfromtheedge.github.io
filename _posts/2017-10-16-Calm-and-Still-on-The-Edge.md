@@ -36,7 +36,7 @@ This is not new stuff, and just as I’m being reminded about all this in my cur
 
 Initially when I started this blog, I had set out to offer you a short list of some of my favourite books, that have helped to rewire my brain over the years, some knowingly, some unknowingly and others profoundly.
 
-Books are like a bit like sweets in a shop! You can pick and mix till you find exactly what you are looking for.  
+Books are a bit like sweets in a shop! You can pick and mix till you find exactly what you are looking for.  
 
 Each book, takes you on a journey of discovery, but often at the end of it, there is a knowing that you have been reminded of something you already knew… and so with my own conviction I’m going with the feeling, and when I went up to the book shelves to select some books for this list, I felt that there was no need to give you a list, because if you ask, you will receive. 
 
