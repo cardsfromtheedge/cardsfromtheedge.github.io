@@ -8,7 +8,7 @@ header-img: "img/stormyday.jpg"
 ---
 Following on from my last blog, it has been very much on my mind how powerful our thoughts are, and the impact they have on us.
 
-I had just finished reading a book that had sat on the bookshelf for years. It made me revisit other unread books. The book I found is called “The only thing that matters” by Neale Donald Walsch (Conversations with God fame, if you’ve read any of those books), I remember buying it a few years ago at a Hay House “I Can Do It” conference. 
+I had just finished reading a book that had sat on the bookshelf for years, which made me revisit other unread books. The book I found is called “The only thing that matters” by Neale Donald Walsch (Conversations with God fame, if you’ve read any of those books), I remember buying it a few years ago at a Hay House “I Can Do It” conference. 
 
 I noticed there was a bookmark in it and wondered why I’d not finished reading it. So, I decided to give it another go, and I’m reading it far more easily this time round. Isn’t it funny sometimes, how things come back to you at the right time for the right reason? 
 
