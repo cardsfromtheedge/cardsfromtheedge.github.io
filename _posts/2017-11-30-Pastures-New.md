@@ -16,7 +16,7 @@ We need to constantly ebb and flow like the tides, or if you prefer, come and go
 
 Looking out across the sea for a moment, I feel blessed to make time for these insights. 
 
-It’s been an incredibly busy time on the Edge over the last few months. There have been lots of lovely visits from friends and family, and several trips away. One recent adventure took me to the beautiful seaside town of North Berwick, and the delightful and inspirational Barefoot Sanctuary - http://www.barefootambition.co.uk/the-barefoot-sanctuary/
+It’s been an incredibly busy time on the Edge over the last few months. There have been lots of lovely visits from friends and family, and several trips away. One recent adventure took me to the beautiful seaside town of North Berwick, and the delightful and inspirational Barefoot Sanctuary - <a href="http://www.barefootambition.co.uk/the-barefoot-sanctuary/">http://www.barefootambition.co.uk/</a> 
 
 Thank you to Bernie for creating such a gorgeous space ☺
 
