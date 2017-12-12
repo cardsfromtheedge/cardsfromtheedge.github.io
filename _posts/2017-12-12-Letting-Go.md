@@ -50,11 +50,7 @@ The walk back was bracing, but beautiful, and the energy had shifted into an alt
 
 Thank you Universe.
 
-It paved the way for more writing and the wonderful feeling of being back in the flow again.
-
-In the words of Gabrielle Bernstein “The Universe has your back” and indeed it does ☺
-
-Feeling grateful as the darkness descends on another wild and wintry day on the Edge. 
+It paved the way for more writing and the wonderful feeling of being back in the flow again. In the words of Gabrielle Bernstein “The Universe has your back” and indeed it does ☺ Feeling grateful as the darkness descends on another wild and wintry day on the Edge. 
 
 With love to you all, as you let go of things that no longer serve you ☺
 
