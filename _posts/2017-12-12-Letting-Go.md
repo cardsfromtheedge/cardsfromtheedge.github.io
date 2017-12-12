@@ -4,7 +4,7 @@ title:      "Letting Go"
 subtitle:   "And a time for celebration"
 date:       2017-12-12 12:00:00
 author:     "Jo Turner"
-header-img: "img/Blusteryday.jpg"
+header-img: "img/Ablusteryday.jpg"
 ---
 After a quiet few days catching up with things at home. We were packing up again to head south for a couple of days. This time for a dear friends big-0 birthday party. 
 
