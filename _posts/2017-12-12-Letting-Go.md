@@ -10,7 +10,7 @@ After a quiet few days catching up with things at home. We were packing up again
 
 It felt a great effort driving for 7-8 hours to get there, but the rewards were immense on so many levels. 
 
-Nothing can beat spending time with friends that you’ve known a long time, where the months apart fall away, and you pick up where you left off. You laugh, compare notes, exchanges new ideas and fill in any gaps, you share a meal and cherish a cup of tea or a glass of something stronger! ☺  
+Nothing can beat spending time with friends that you’ve known a long time, where the months apart, fall away and you pick up where you left off. You laugh, compare notes, exchange new ideas and fill in any gaps, you share a meal and cherish a cup of tea or a glass of something stronger! ☺  
 
 When I’m back on the Edge looking out to sea, as by now you’ll know I often do, I cannot help, but marvel at how many wonderful people I’ve met in my life. 
 
@@ -20,7 +20,7 @@ The present moment becomes everything.
 
 How easy it is to be in the present moment when you are having fun and there’s lots going on right in front of you, and all around you!
 
-In my pursue of peaceful, contented living here on the Edge, there have been several times of acceptance, that letting go is the best and only course of action. Sometimes, it has been easy and other times incredibly difficult.
+In my pursuit of peaceful, contented living here on the Edge, there have been several times of acceptance, that letting go is the best and only course of action. Sometimes, it has been easy and other times incredibly difficult.
 
 However, letting go is a call for freedom, an inner knowing.
 
