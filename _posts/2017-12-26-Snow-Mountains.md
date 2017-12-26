@@ -39,7 +39,7 @@ Many whoops of joy were heard on the mountain in those first few days. ☺
   
 It is moments like these that reconnect you with joy and life. It’s makes life so worth living. 
 
-Are you doing what makes your heart sing?
+*Are you doing what makes your heart sing?*
 
 It takes time for joy to return after bereavement, but it will return and dare I say more frequently as time moves on. This can be a problem in itself, as there are sometimes, feelings of guilt that you are happy again without them.
 
