@@ -35,6 +35,7 @@ To the non-skiers among you, this means, light fluffy powder snow deep on the mo
 There is nothing more thrilling than making fresh tracks in unblemished snow!
 
 For many, this means getting out for first lifts and going wherever the next bit of untracked snow is. I confess I’m a bit more laid back about it, and get out there as and when. The joy of these experiences are not lessened, as the years go by, and there is a sense of being a child again, and certainly being totally in the present moment.
+
 Many whoops of joy were heard on the mountain in those first few days. ☺
   
 It is moments like these that reconnect you with joy and life. It’s makes life so worth living. 
