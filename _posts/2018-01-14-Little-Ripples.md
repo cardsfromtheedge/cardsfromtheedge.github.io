@@ -48,7 +48,7 @@ There is so much wisdom in this book, and I’m feeling grateful to the friend w
 
 It would make a brilliant book for schools to include on reading lists for a better future – one with more kindness and compassion.
 
-As I look out on the pine tress, and the enchanting fir tree all lit up with fairy lights, a feeling of deep gratitude fills me as the snow settles on its branches adding to the magic. Again, realising how powerful, small acts with good intention are, and how they shape our lives.
+As I look out on the pine trees, and the enchanting fir tree all lit up with fairy lights, a feeling of deep gratitude fills me as the snow settles on its branches adding to the magic. Again, realising how powerful, small acts with good intention are, and how they shape our lives.
 
 I reflect on today’s tiny acts (all done while ‘recharging my batteries’ after a busy few days) - going to the shop to buy breakfast for someone who has work to do, washing the dishes, hand washing the top that needed extra TLC, making the bed, chatting to my family online, pulling angel cards to inspire, making time to meditate and finishing the meditation by sending LOVE out into the world (often seen as sprinkling ‘fairy sparkles’ of love over everyone!) eating some dark chocolate as a treat and writing the next blog…
 
