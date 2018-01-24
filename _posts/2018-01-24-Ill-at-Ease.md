@@ -69,6 +69,7 @@ There are no set rules to any of this. Make the rules up as you go.
 Follow your heart. 
 
 I pause, as I look back, and remember that because of my sister’s death and, that of Jenny, I’m now completing my 30th blog. 
+
 Does that fill me with joy or sadness?
 
 A bit of both I suppose, sat here reflecting, I feel at peace as I write, but oh what I would give to have them both here now with me, sharing a mug of tea and a piece of cake!
