@@ -6,7 +6,7 @@ date:       2018-01-24 12:00:00
 author:     "Jo Turner"
 header-img: "img/teapartyfor3.jpg"
 ---
-The last week has been challenging on many levels. While a cold has kept me physically low, others events have had a major impact too. It’s been a matter of literally, mind over matter trying to keep moving forward.
+The last week has been challenging on many levels. While a cold has kept me physically low, other events have had a major impact too. It’s been a matter of literally, mind over matter trying to keep moving forward.
 
 I decided at the onset of the cold to take it easy and allow my body the time it would need to heal. I rested, made hot toddies (minus the whisky) and read and looked out on the rain that persisted in falling after all the heavy snow we had had the previous week.
 
