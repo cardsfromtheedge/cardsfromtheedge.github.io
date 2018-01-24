@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      ""Ill at Ease"
-subtitle:   "But today is going to be a good day..."
+title:      "Ill at Ease"
+subtitle:   "but today is going to be a good day..."
 date:       2018-01-24 12:00:00
 author:     "Jo Turner"
 header-img: "img/teapartyfor3.jpg"
