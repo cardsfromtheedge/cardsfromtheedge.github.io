@@ -76,7 +76,7 @@ A bit of both I suppose, sat here reflecting, I feel at peace as I write, but oh
 
 Yes, life does go on, but differently and dare I say it richer for having had these beautiful souls in my life. 
 
-They may not be here physically now, but on many levels they are larger than life itself now, and that is something that only comes with time. In the early days, the pain is too great, now I feel their wonderful influence on me in so many things that I do and think. That is, indeed a blessing.
+They may not be here physically, but on many levels they are larger than life itself now, and that is something that only comes with time. In the early days, the pain is too great, now I feel their wonderful influence on me in so many things that I do and think. That is, indeed a blessing.
 
 As this blog comes to a close, I again feel immense gratitude for all the things I’m learning as life goes on after bereavement.
 
