@@ -46,7 +46,7 @@ In the meantime, I have been reading other blog posts, and tonight after reading
 
 Taking ACTION….read Bernie’s post here -
 
-http://www.barefootambition.co.uk/dont-limited-thoughts/ 
+<a href="http://www.barefootambition.co.uk/dont-limited-thoughts/">http://www.barefootambition.co.uk/dont-limited-thoughts/</a>
 
 Suddenly, I felt compelled to take action! I have been very conscious that I’ve not written in a while. And now I can see that more blog posts would not appear without taking some action!
 
