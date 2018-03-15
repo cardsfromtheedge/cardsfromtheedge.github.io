@@ -44,7 +44,7 @@ And it has, feeling so grateful tonight as I type away.
 
 In the meantime, I have been reading other blog posts, and tonight after reading several from my wonderful friend Bernie at The Barefoot Sanctuary, something really resonated with me. 
 
-Taking ACTION….read Bernie’s post here -
+Taking ACTION…. read Bernie’s post here -
 
 <a href="http://www.barefootambition.co.uk/dont-limited-thoughts/">http://www.barefootambition.co.uk/dont-limited-thoughts/</a>
 
