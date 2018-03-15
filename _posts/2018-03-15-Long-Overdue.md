@@ -6,7 +6,7 @@ date:       2018-03-15 12:00:00
 author:     "Jo Turner"
 header-img: "img/snowingagain.jpg"
 ---
-I’ve been thinking about my next blog post for several weeks now. Nothing has been forthcoming, while I’ve enjoyed the creativity that has flowed elsewhere – namely, making new Cards from the Edge.
+I’ve been thinking about my next blog post for several weeks now. Nothing has been forthcoming, whilst enjoying creativity that has flowed elsewhere – namely, making new Cards from the Edge.
 
 It has been great fun, and has taken me down memory lane looking for photos that make me smile or bring a happy memory that would make the basis for another card.
 
