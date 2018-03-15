@@ -4,7 +4,7 @@ title:      "Long Overdue"
 subtitle:   "Lets see where this takes us tonight"
 date:       2018-03-15 12:00:00
 author:     "Jo Turner"
-header-img: "img/Snowingagain.jpg"
+header-img: "img/snowingagain.jpg"
 ---
 I’ve been thinking about my next blog post for several weeks now. Nothing has been forthcoming, while I’ve enjoyed the creativity that has flowed elsewhere – namely, making new Cards from the Edge.
 
