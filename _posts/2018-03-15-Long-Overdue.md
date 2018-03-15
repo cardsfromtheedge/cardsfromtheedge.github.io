@@ -36,7 +36,7 @@ Quite possibly, and for several weeks the blog was left hanging, waiting for act
 
 Action may be taken in due course as regards photography, but in an attempt to re-connect with you, this is my offering to complete this blog. It felt better than starting another new blog. 
 
-Many weeks have passed since no.28 (the last one) of the new batch of ‘Cards from the Edge’ was published. They are Facebook if you’d like to read some of them.
+Many weeks have passed since no.28 (the last one) of the new batch of ‘Cards from the Edge’ was published. They are on Facebook if you’d like to read some of them.
 
 I had so much fun doing them, and yet instead of firing up my blog writing creativity, it seemed to stall it. I again had to remind myself, that it would return when the time was right.
 
