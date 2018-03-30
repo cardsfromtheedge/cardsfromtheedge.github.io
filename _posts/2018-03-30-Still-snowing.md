@@ -34,4 +34,4 @@ Preparing for the rush of the coming weeks, as time will definitely speed up, it
 
 This blog feels short and sweet, but it also feels complete…
 
-With gratitude for this life we lead and for the friends we’ve made along the way. Sending blessing out into the world, may your day be filled with love and much laughter ☺
+With gratitude for this life we lead and for the friends we’ve made along the way. Sending blessings out into the world, may your day be filled with love and much laughter ☺
