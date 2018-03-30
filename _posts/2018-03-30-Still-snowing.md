@@ -34,4 +34,8 @@ Preparing for the rush of the coming weeks, as time will definitely speed up, it
 
 This blog feels short and sweet, but it also feels complete…
 
-With gratitude for this life we lead and for the friends we’ve made along the way. Sending blessings out into the world, may your day be filled with love and much laughter ☺
+Another week or so has passed since I started writing this blog, and the Spring Equinox has been and gone, the days are longer and still we see snow flurries in between the sunshine and cloud.
+
+I tell myself, it’s warmer, it’s almost April after all ☺
+
+With gratitude for this life we lead and for the friends we’ve made along the way. Sending blessings out into the world, may your days be filled with love and much laughter ☺
