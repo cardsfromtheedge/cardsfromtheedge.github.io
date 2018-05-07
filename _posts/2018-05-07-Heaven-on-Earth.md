@@ -4,7 +4,7 @@ title:      "Heaven on Earth"
 subtitle:   "Sometimes we get lost in the busy-ness, but often that is where we find ourselves too..."
 date:       2018-05-07 12:00:00
 author:     "Jo Turner"
-header-img: "img/Sunnymoment.jpg"
+header-img: "img/HeavenonEarth.jpg"
 ---
 Many weeks have passed, since I wrote the last blog. 
 
