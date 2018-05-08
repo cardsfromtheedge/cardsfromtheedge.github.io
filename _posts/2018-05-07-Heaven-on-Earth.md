@@ -14,7 +14,7 @@ I’ve just come indoors, the sea is calm and after a few days of low cloud, and
 
 I know it’s there all the time, but some days it just does not feel like it. Especially as I knew the rest of the country seemed to be basking in full sunshine.
 
-So, this a “knitting together” of two moments in time, when it truly felt like heaven on earth. A few weeks ago and then, fast forward to this delightful evening.
+So, this is a “knitting together” of two moments in time, when it truly felt like heaven on earth. A few weeks ago and then, fast forward to this delightful evening.
 
 Whilst out skiing one day, near the end of the season, I had a huge wave of gratitude sweep over me.
 
