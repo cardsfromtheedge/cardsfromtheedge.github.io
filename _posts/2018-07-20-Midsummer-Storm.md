@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Midsummmer(again)"
+title:      "Midsummmer (again)"
 subtitle:   "And in a flash... gone!"
 date:       2018-07-20 12:00:00
 author:     "Jo Turner"
