@@ -26,7 +26,7 @@ The waves have been rolling into shore and now as the tide recedes, the view ahe
 
 The weather today sums up how life has been recently, it feels as though I’ve been weathering an internal storm. Like the trees, I feel buffeted about by life events, but like the trees too, I’ve bent and bowed to withstand what’s been thrown my way.
 
-It finally feels good looking back at how I’ve navigated through the last few weeks. Nothing major has happened as such, but events have created unwelcome stresses. Things like the car breaking down, then the washing machine, the need for fencing reinforcements due to deer damage and in between all of these things, family visits both home and away.
+It finally feels good looking back at how I’ve navigated through the last couple of months. Nothing major has happened as such, but events have created unwelcome stresses. Things like the car breaking down, then the washing machine, and the need for fencing reinforcements due to deer damage, and in between all of these things, family visits both home and away.
 
 To coin a modern cliché – they are all first world problems…
 
