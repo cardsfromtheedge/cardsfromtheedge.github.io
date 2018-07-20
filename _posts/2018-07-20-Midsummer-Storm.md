@@ -4,7 +4,7 @@ title:      "Midsummmer(again)"
 subtitle:   "And in a flash... gone!"
 date:       2018-07-20 12:00:00
 author:     "Jo Turner"
-header-img: "img/Midsummer Storm.jpg"
+header-img: "img/midsummerstorm.jpg"
 ---
 Have you noticed that? Some say it’s a sign of getting older…
 
