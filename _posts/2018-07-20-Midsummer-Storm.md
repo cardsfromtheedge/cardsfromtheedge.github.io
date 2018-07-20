@@ -20,7 +20,7 @@ There have been some unforeseen challenges recently, but there has been an endea
 
 I look up at the scene in front of me…
 
-It has been a stormy morning today, and my beloved ash tree has lost a big branch in the strong wings. Our beautiful birch in the courtyard has been bent over double several times. 
+It has been a stormy morning today, and my beloved ash tree has lost a big branch in the strong winds. Our beautiful birch in the courtyard has been bent over double several times. 
 
 The waves have been rolling into shore and now as the tide recedes, the view ahead seems marginally calmer.
 
