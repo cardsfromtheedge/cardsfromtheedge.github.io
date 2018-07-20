@@ -6,11 +6,11 @@ date:       2018-07-20 12:00:00
 author:     "Jo Turner"
 header-img: "img/midsummerstorm.jpg"
 ---
-Have you noticed that? Some say it’s a sign of getting older…
+Have you noticed that? Midsummer comes round so quickly, it seems. Some say it’s a sign of getting older…
 
-Since I last wrote, we have been blessed with wonderful weather, not days upon days, but weeks upon weeks. Almost unheard of in The Highlands!
+Since I last wrote, we have been blessed with wonderful weather, not days upon days, but weeks upon weeks. Almost unheard of in The Highlands! ☺
 
-With the last blog on my mind, it seems that Heaven on Earth has stayed for a while ☺
+With the last blog on my mind, it seems that Heaven on Earth has stayed for a while. 
 
 Days have been long and warm. The garden has blossomed and the grass continually needs cutting. The swallows have re-built their nest and the midges, along with the tourists have returned.  
 
