@@ -50,4 +50,4 @@ Like life, we weather the storm, and know that we can take the rough with the sm
 
 Tomorrow is another day, may it be a calm one. 
 
-Feeling gratitude, for joining me through the storm. ☺
+Feeling gratitude, for you joining me through the storm. ☺
