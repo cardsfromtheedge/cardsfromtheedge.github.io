@@ -34,7 +34,7 @@ It has reminded me again how much reaching out to friends can be such a great to
 
 The more I ponder life, the more, I appreciate how it’s the simple things that bring joy, and how easy it is to loose sight of that fact. 
 
-Although I very rarely watch the news on TV, recently, I have been reading rather a lot of news on-line. It’s an endeavour to keep abreast of current affairs and not have my head in the proverbial sand. Easily done, when living so remotely from what some may see as mainstream life.
+Although I very rarely watch the news on TV, recently, I have been reading rather a lot of news on-line. It’s an endeavour to keep abreast of current affairs and not have my head in the proverbial sand. Easily done, when living so remotely from what, some may see as mainstream life.
 
 However, the more I read, the more I feel, time and again, that simplicity in life really is the way forward, for me at least. 
 
