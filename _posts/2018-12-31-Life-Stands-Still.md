@@ -22,7 +22,7 @@ I hear my Mother’s words echoing in my head “He’s stronger than you think�
 
 Never truer words spoken, from being told he may not survive, he went onto to live another few years to reach his wished for destination, his 90th.  Those few years had their challenges both for him, and at times for us too.
 
-Sitting here looking back, I can see how much love was in the air, as we did everything in our power to give Dad a good end of life, before his eminent death and the years lending up to it. It is the over riding feeling I have sat here, mulling over the events of the last few months.
+Sitting here looking back, I can see how much love was in the air, as we did everything in our power to give Dad a good end of life, before his eminent death and the years lending up to it. It is the overriding feeling I have sat here, mulling over the events of the last few months.
 
 It wasn’t always obvious at times, especially if it felt challenging, for example when getting up at 3:45am to get a flight southwards. But now, sat here with my photos of him on a slide show and some candles burning to invite the angels to gather round, I see only LOVE all around me.
 
