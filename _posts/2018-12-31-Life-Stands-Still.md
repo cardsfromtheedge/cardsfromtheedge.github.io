@@ -4,7 +4,7 @@ title:      "Life Stands Still (again)"
 subtitle:   "Been here before and I remember the feeling"
 date:       2018-12-31 12:00:00
 author:     "Jo Turner"
-header-img: "img/SGdown38.jpg"
+header-img: "img/SGD38.jpg"
 ---
 I must write. It will bring some normality back into my life. 
 
