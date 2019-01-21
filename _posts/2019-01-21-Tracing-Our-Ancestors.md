@@ -10,7 +10,7 @@ On a crisp Autumnal day, driving over the Firth of Forth, across the impressive 
 
 My brother had done an amazing job tracing our ancestor’s on both our maternal and paternal sides. We had arranged to meet up for a few days and explore the lowlands of Scotland in search of our maternal forefathers and mothers, hopefully to find some missing links about great, great, great (et al) grandparents long gone.
 
-We had a rough plan, and set off towards the village where our mother had lived, before the family moved south in the late 1930’s. I had been there before, taking our mother to see where she had lived as a child, a couple of years before she had died. The cottage where they had lived had lone gone, but the school remained, now converted into flats, and the original bridge across a burn (stream), which Mum walked over each day on the way to school.
+We had a rough plan, and set off towards the village where our mother had lived, before the family moved south in the late 1930’s. I had been there before taking our mother to see where she had lived as a child, a couple of years before she died. The cottage where they had lived had lone gone, but the school remained, now converted into flats, and the original bridge across a burn (stream), which Mum walked over each day on the way to school.
 
 The mines, where my grandfather had once worked, were long gone too.
 
