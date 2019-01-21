@@ -16,7 +16,7 @@ The mines, where my grandfather had once worked, were long gone too.
 
 The weather had changed and as the drizzle and cloud set in for the day, we headed further west to our accommodation for the next couple of nights. 
 
-That evening, whilst sitting in a pub, a meal, we looked over some of the paperwork my brother had brought with him. It was fascinating to see all those family names and dates in front of us. Some were familiar to me, but many were not. 
+That evening, whilst sitting in a pub, having a meal, we looked over some of the paperwork my brother had brought with him. It was fascinating to see all those family names and dates in front of us. Some were familiar to me, but many were not. 
 
 Tomorrow promised to be an exciting day.
 
