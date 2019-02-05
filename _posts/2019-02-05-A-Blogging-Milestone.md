@@ -4,7 +4,7 @@ title:      "A Blogging Milestone"
 subtitle:   "How did that happen?"
 date:       2019-02-05 12:00:00
 author:     "Jo Turner"
-header-img: "img/Endoftheday.jpg"
+header-img: "img/Endofdaysnow.jpg"
 ---
 It is with great surprise, that I start my 40th blog. It still feels very new, and each new blog is birthed with a sense of trepidation and wondering – *how will this turn out?*
 
