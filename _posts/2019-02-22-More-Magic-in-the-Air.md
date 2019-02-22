@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "More Magic in the Air"
-subtitle:   "And other contented thougts"
+subtitle:   "And other contented thoughts"
 date:       2019-02-22 12:00:00
 author:     "Jo Turner"
 header-img: "img/Snowymountain41.jpg"
