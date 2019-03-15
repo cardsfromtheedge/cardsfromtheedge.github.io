@@ -4,7 +4,7 @@ title:      "Time for some action"
 subtitle:   "More thoughts, but action needed"
 date:       2019-03-16 12:00:00
 author:     "Jo Turner"
-header-img: "img/Snowlogpile.jpg"
+header-img: "img/snowlogpile.jpg"
 ---
 I’m good at thinking, probably too much really. *Can we be too much at something…?*
 
