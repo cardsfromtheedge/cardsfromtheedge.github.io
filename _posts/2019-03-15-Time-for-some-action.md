@@ -26,13 +26,9 @@ There are days when I’m grateful for the rain too, but on balance I relish the
 
 My favourite contrast is found in the springtime. When the sky is true blue, there are white snow covered mountain-tops, and bright, lush, green fields that look so vibrant, and alive after the full on whiteness of winter. The lowers slopes are dotted with alpine chalets and soon more life will appear.
 
-It is a delight every year when the spring flowers start to appear. It heralds a new beginning and the longer summer days ahead.
+It is a delight every year when the spring flowers start to appear. It heralds a new beginning and the longer summer days ahead. There are already signs of spring lower down the valley, but up on the mountain we will wait a few more weeks to see anything.
 
-There are already signs of spring lower down the valley, but up on the mountain we will wait a few more weeks to see anything.
-
-I love the winter, but as the days lengthen, I rejoice in the lightness of the coming spring and hanker after summer evenings by the sea.
-
-When the days start to shorten again, I will cherish cosy days by the fire and being wrapped up warm again. Another winter will arrive…
+I love the winter, but as the days lengthen, I rejoice in the lightness of the coming spring and hanker after summer evenings by the sea. When the days start to shorten again, I will cherish cosy days by the fire and being wrapped up warm again. Another winter will arrive…
 
 And so ever onwards, with the continuous cycles that repeat each year.
 
