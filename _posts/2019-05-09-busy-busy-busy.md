@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Busy, Busy, Busy"
-subtitle:   "time does not stand still..."
+subtitle:   "Time does not stand still..."
 date:       2019-05-09 12:00:00
 author:     "Jo Turner"
 header-img: "img/44CFTEbusy.jpg"
