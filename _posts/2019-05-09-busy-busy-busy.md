@@ -4,7 +4,7 @@ title:      "Busy, Busy, Busy"
 subtitle:   "time does not stand still..."
 date:       2019-05-09 12:00:00
 author:     "Jo Turner"
-header-img: "img/44CFTEBbusy.jpg"
+header-img: "img/44CFTEbusy.jpg"
 ---
 Whatever is going on in your life right now, are you making time to take a breath?
 
