@@ -46,7 +46,7 @@ We can set an intention but we must let go of the outcome.
 
 Over the last few years, and in fact, they are piling up too, I have read and followed many inspiring public figures and several inspirational friends. Always trying to see the best in life, and just in case you were wondering I do balance it out a bit with real life, and do selectively read the news on line.
 
-One of my favourite daily inspirations is from someone called Mike Dooley - https://www.tut.com - his ‘Notes from the Universe’ are wonderful reminders of how life is magical.
+One of my favourite daily inspirations is from someone called Mike Dooley - <a href="https://www.tut.com/">https://www.tut.com/</a> - his ‘Notes from the Universe’ are wonderful reminders of how life is magical.
 
 However busy life is, or however hard some choices may seem, there is always a better way forward and that usually involves accepting life as it is, as opposed to how you thought it would be!
 
