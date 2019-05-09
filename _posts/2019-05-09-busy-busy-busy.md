@@ -36,7 +36,7 @@ Amazingly, the chores still get done ☺
 
 As regards, being kind to others – it can be as simple as opening the door for someone, picking up some litter, sending a letter or email to someone you’ve been thinking about, making lunch for a friend, only saying kind/positive things about people and places. The list is endless. 
 
-When life gets busy, which it invariably does, these days. It makes it even more important to make time for the little kindnesses that make the world go round. 
+When life gets busy, which it invariably does these days, it makes it even more important, to make time for the little kindnesses that make the world go round. 
 
 Making time to spend an hour or so doing something uplifting will reward you many times over as the cycles of life continue onwards. It may be that you need to exercise more, or eat more fruit and veg, laugh more, sing more, dance more or just plain old sleep more!
 
@@ -46,8 +46,7 @@ We can set an intention but we must let go of the outcome.
 
 Over the last few years, and in fact, they are piling up too, I have read and followed many inspiring public figures and several inspirational friends. Always trying to see the best in life, and just in case you were wondering I do balance it out a bit with real life, and do selectively read the news on line.
 
-One of my favourite daily inspirations is from someone called Mike Dooley - https://www.tut.com
- - his ‘Notes from the Universe’ are wonderful reminders of how life is magical.
+One of my favourite daily inspirations is from someone called Mike Dooley - https://www.tut.com - his ‘Notes from the Universe’ are wonderful reminders of how life is magical.
 
 However busy life is, or however hard some choices may seem, there is always a better way forward and that usually involves accepting life as it is, as opposed to how you thought it would be!
 
