@@ -1,12 +1,11 @@
-
-
-
-
-
-
-
-
-
+---
+layout:     post
+title:      "Beautiful skies, calm seas"
+subtitle:   "Taking a moment to take it all in..."
+date:       2019-05-28 12:00:00
+author:     "Jo Turner"
+header-img: "img/CFTE45Bluebells.jpg"
+---
 What a wonderful day it has been. Sitting here in my newly acquired rocking chair looking out to the mountains, sea and sky. I felt the stirrings of complete contentment of a day well lived. 
 
 It has been a day of simple pleasures.
