@@ -44,7 +44,7 @@ The traffic is beginning to build, it’s a changeover day, so people are leavin
 
 I have now re-read and edited this blog for long enough, that when I looked up just then, the sun has risen high into the sky, and changed the shade of green of the trees gracing the skyline above me.
 
-It is as though, a light has been switched on! The trees are a bright green and they look illuminated and are basking in their glory. I am looking north so very shortly as the sun moves towards the west and gets higher in the sky, they will be back in the shade for the most of the day.
+It is as though, a light has been switched on! The trees are a bright green and they look illuminated and are basking in their glory. I am looking north, so very shortly as the sun moves towards the west and gets higher in the sky, they will be back in the shade for most of the day.
 
 Higher up the mountain will be in full sun, and sunglasses are needed when outdoors. One of the biggest joys each winter is when the morning sun 1st hits the building and filters into our rooms.
 
