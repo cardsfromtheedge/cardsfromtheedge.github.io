@@ -4,7 +4,7 @@ title:      "Old photos, old books"
 subtitle:   "What to do, what to do"
 date:       2019-07-01 12:00:00
 author:     "Jo Turner"
-header-img: "img/46CFTEsunspot.jpg"
+header-img: "img/46CFTEsunshinespot.jpg"
 ---
 Having finished the previous blog, it got me thinking about what to do next…
 
