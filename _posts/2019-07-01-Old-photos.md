@@ -12,7 +12,7 @@ There are newly purchased bedding plants to go into the garden, and 2 beautiful 
 
 As so often happens, I intend to complete a blog and then the words get stuck and I drift away, sometimes mentally and sometimes literally. ☺
 
-The new plants mentioned above were all planted out into the garden some time ago. The rain has poured down on them and considering the lack of warmth in our June days currently, the plants have done remarkably well. 
+The new plants mentioned above were all planted out into the garden some time ago. The rain has poured down on them and considering the lack of warmth in our June days, the plants have done remarkably well. 
 
 I smile to myself as the sun makes a brief appearance and warms my back. 
 
