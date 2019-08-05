@@ -24,9 +24,9 @@ He was a very organised person and had several years earlier, got a metal file t
 
 Dad was always thinking about others. I rarely heard him say a bad word about anyone. He was a wonderful example of kindness and gentleness, in deed a true gentleman. And he was thoughtful in his end of life planning too, ensuring the paperwork was all together, and as organised as possible.
 
-With this in mind, it is an ideal opportunity to mention Before I Go Solutions, which is all about creating good end of life plans - <a href="https://www.beforeigosolutions.com/">https://www.beforeigosolutions.com/</a> - You can order the workbook on line, I have mine!
+With this in mind, it is an ideal opportunity to tell you about Before I Go Solutions, developed by Jane Duncan Rogers, a very talented friend. “The BIG Method” will assist you in planning for the future. It follows the death of her husband and then subsequently writing her inspirational book “Gifted by Grief”.
 
-A very talented friend Jane Duncan Rogers has developed “The BIG Method” to assist you in planning for the future. It follows the death of her husband and writing her inspirational book “Gifted by Grief”.
+It is all about creating a good end of life plan. Take a look at Jane’s website - https://beforeigosolutions.com - You can order the workbook on line, I have mine!
 
 I have still to fully complete my workbook, but it is a step in the right direction. I truly believe by facing death we can fully embrace life.
 
