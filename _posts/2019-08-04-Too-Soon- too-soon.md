@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Too Soon, too soon"
-subtitle:   "Bring back memories"
+subtitle:   "bringing back memories..."
 date:       2019-08-04 12:00:00
 author:     "Jo Turner"
 header-img: "img/cfte47sunbeams.jpg"
