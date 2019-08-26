@@ -6,7 +6,7 @@ date:       2019-08-23 12:00:00
 author:     "Jo Turner"
 header-img: "img/48CFTEwaterfall.jpg"
 ---
-I’m sat on a wet and windy summers day in the Highlands, and the memories being stirred today are happy memories.
+I’m sat on a wet and windy summer's day in the Highlands, and the memories being stirred today are happy memories.
 
 It seems that nothing will dampen my spirit today!
 
